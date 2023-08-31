@@ -27,12 +27,6 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Japaner&bg_color=00000000">
 </details>
 
-<details>
-<summary>:trophy: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=offjapaner&show_icons=true&bg_color=00000000">
-<img src="https://github-profile-trophy.vercel.app/?username=offjapaner&bg_color=00000000">
-</details>
-
 ---
 <img src="https://img.anili.st/user/6345425" width="500">
 
