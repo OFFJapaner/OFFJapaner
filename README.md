@@ -20,7 +20,7 @@
 ---
 
 :star: Here are some projects that I'm working on:
-- [Revive-Crimelife]([https://beta.moe.team](https://discord.gg/BTwk3BDqmh))
+- <a href="https://discord.gg/pericolife" target="_blank">PericoLife</a>
 
 <details>
 <summary>:trophy: Wakatime Stats</summary>
