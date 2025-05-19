@@ -22,13 +22,7 @@
 :star: Here are some projects that I'm working on:
 - <a href="https://discord.gg/pericolife" target="_blank">PericoLife</a>
 
-<details>
-<summary>:trophy: Wakatime Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Japaner&bg_color=00000000">
-</details>
-
 ---
-<img src="https://img.anili.st/user/6345425" width="500">
 
 Feel free to contact me
 <br><br>
